@@ -1,0 +1,49 @@
+store_id,store_name,product_id,product_name,n_weeks,price_points,elasticity,elasticity_se,ci_low,ci_high,confidence,comp_sens_est,promo_uplift_est,r2,e_raw,e_raw_se,e_pooled,e_pooled_se,shrink_weight,true_own_price_elasticity,abs_error,within_0_2,truth_in_ci
+S01,WrapStreet BKC,P01,Paneer Tikka Wrap,104,8,-0.791,0.26,-1.301,-0.281,Low,0.352,0.219,0.598,-0.154,0.572,-0.912,0.147,0.16,-0.7,0.091,True,True
+S01,WrapStreet BKC,P02,Chicken Tikka Wrap,104,9,-0.981,0.235,-1.442,-0.52,Medium,0.36,0.008,0.583,-1.15,0.392,-0.912,0.147,0.289,-0.7,0.281,False,True
+S01,WrapStreet BKC,P03,Rajma Rice Bowl,104,9,-0.802,0.251,-1.293,-0.31,Low,-0.003,0.097,0.545,-0.386,0.485,-0.912,0.147,0.21,-0.63,0.172,True,True
+S01,WrapStreet BKC,P04,Butter Chicken Bowl,104,6,-0.895,0.228,-1.342,-0.449,Medium,0.537,0.014,0.456,-0.86,0.359,-0.912,0.147,0.327,-0.63,0.265,False,True
+S01,WrapStreet BKC,P05,Masala Fries,104,6,-0.793,0.241,-1.264,-0.321,Medium,0.382,0.08,0.684,-0.457,0.419,-0.912,0.147,0.262,-0.84,0.047,True,True
+S01,WrapStreet BKC,P06,Cold Coffee,104,9,-0.919,0.208,-1.327,-0.511,High,0.541,0.06,0.784,-0.929,0.292,-0.912,0.147,0.423,-0.805,0.114,True,True
+S02,WrapStreet Lower Parel,P01,Paneer Tikka Wrap,104,10,-0.989,0.215,-1.411,-0.568,Medium,0.46,0.085,0.694,-1.032,0.343,-0.966,0.113,0.347,-1.1,0.111,True,True
+S02,WrapStreet Lower Parel,P02,Chicken Tikka Wrap,104,7,-0.959,0.209,-1.369,-0.55,Medium,0.728,0.054,0.696,-0.948,0.32,-0.966,0.113,0.38,-1.1,0.141,True,True
+S02,WrapStreet Lower Parel,P03,Rajma Rice Bowl,104,8,-0.958,0.203,-1.357,-0.56,Medium,0.039,0.08,0.669,-0.947,0.3,-0.966,0.113,0.41,-0.99,0.032,True,True
+S02,WrapStreet Lower Parel,P04,Butter Chicken Bowl,104,9,-0.878,0.23,-1.329,-0.426,Medium,0.491,0.132,0.585,-0.629,0.418,-0.966,0.113,0.263,-0.99,0.112,True,True
+S02,WrapStreet Lower Parel,P05,Masala Fries,104,8,-1.018,0.222,-1.454,-0.582,Medium,0.388,0.096,0.751,-1.134,0.376,-0.966,0.113,0.307,-1.32,0.302,False,True
+S02,WrapStreet Lower Parel,P06,Cold Coffee,104,10,-1.109,0.182,-1.466,-0.751,High,0.468,0.072,0.853,-1.242,0.242,-0.966,0.113,0.516,-1.265,0.156,True,True
+S03,WrapStreet Colaba,P01,Paneer Tikka Wrap,104,8,-0.936,0.226,-1.379,-0.492,Medium,0.283,0.02,0.596,-1.107,0.383,-0.863,0.123,0.299,-0.8,0.136,True,True
+S03,WrapStreet Colaba,P02,Chicken Tikka Wrap,104,7,-0.81,0.256,-1.311,-0.309,Low,0.155,0.102,0.488,-0.47,0.635,-0.863,0.123,0.134,-0.8,0.01,True,True
+S03,WrapStreet Colaba,P03,Rajma Rice Bowl,104,8,-0.699,0.19,-1.072,-0.326,High,0.187,0.09,0.596,-0.525,0.258,-0.863,0.123,0.484,-0.72,0.021,True,True
+S03,WrapStreet Colaba,P04,Butter Chicken Bowl,104,11,-0.682,0.208,-1.091,-0.274,Medium,-0.115,0.086,0.434,-0.405,0.31,-0.863,0.123,0.394,-0.72,0.038,True,True
+S03,WrapStreet Colaba,P05,Masala Fries,104,7,-0.948,0.234,-1.407,-0.489,Medium,0.061,0.035,0.464,-1.195,0.426,-0.863,0.123,0.256,-0.96,0.012,True,True
+S03,WrapStreet Colaba,P06,Cold Coffee,104,7,-1.044,0.215,-1.465,-0.623,Medium,0.364,-0.034,0.682,-1.367,0.333,-0.863,0.123,0.36,-0.92,0.124,True,True
+S04,WrapStreet Powai,P01,Paneer Tikka Wrap,104,8,-1.118,0.208,-1.526,-0.711,Medium,0.348,0.059,0.596,-1.108,0.308,-1.126,0.124,0.398,-1.1,0.018,True,True
+S04,WrapStreet Powai,P02,Chicken Tikka Wrap,104,7,-1.196,0.231,-1.649,-0.744,Medium,-0.122,0.017,0.634,-1.382,0.404,-1.126,0.124,0.277,-1.1,0.096,True,True
+S04,WrapStreet Powai,P03,Rajma Rice Bowl,104,9,-0.986,0.188,-1.355,-0.618,High,0.071,0.121,0.671,-0.845,0.252,-1.126,0.124,0.497,-0.99,0.004,True,True
+S04,WrapStreet Powai,P04,Butter Chicken Bowl,104,8,-1.087,0.248,-1.573,-0.601,Low,0.201,0.038,0.466,-0.914,0.531,-1.126,0.124,0.182,-0.99,0.097,True,True
+S04,WrapStreet Powai,P05,Masala Fries,104,5,-1.102,0.275,-1.64,-0.564,Low,0.776,0.179,0.521,-0.264,1.483,-1.126,0.124,0.028,-1.32,0.218,False,True
+S04,WrapStreet Powai,P06,Cold Coffee,104,8,-1.258,0.22,-1.689,-0.827,Medium,0.671,-0.022,0.746,-1.521,0.352,-1.126,0.124,0.336,-1.265,0.007,True,True
+S05,WrapStreet Andheri West,P01,Paneer Tikka Wrap,104,8,-1.132,0.248,-1.618,-0.645,Low,0.504,0.212,0.593,-0.194,0.512,-1.355,0.13,0.192,-1.5,0.368,False,True
+S05,WrapStreet Andheri West,P02,Chicken Tikka Wrap,104,9,-1.375,0.226,-1.817,-0.932,Medium,0.376,0.034,0.647,-1.418,0.371,-1.355,0.13,0.312,-1.5,0.125,True,True
+S05,WrapStreet Andheri West,P03,Rajma Rice Bowl,104,10,-1.456,0.209,-1.865,-1.047,Medium,0.312,-0.012,0.701,-1.608,0.306,-1.355,0.13,0.401,-1.35,0.106,True,True
+S05,WrapStreet Andheri West,P04,Butter Chicken Bowl,104,8,-1.312,0.24,-1.782,-0.842,Medium,0.735,0.078,0.718,-1.173,0.449,-1.355,0.13,0.237,-1.35,0.038,True,True
+S05,WrapStreet Andheri West,P05,Masala Fries,104,8,-1.493,0.24,-1.962,-1.023,Medium,0.422,0.029,0.756,-1.93,0.446,-1.355,0.13,0.239,-1.8,0.307,False,True
+S05,WrapStreet Andheri West,P06,Cold Coffee,104,9,-1.439,0.185,-1.802,-1.076,High,-0.597,0.074,0.847,-1.518,0.242,-1.355,0.13,0.515,-1.725,0.286,False,True
+S06,WrapStreet Vile Parle,P01,Paneer Tikka Wrap,104,9,-1.798,0.205,-2.201,-1.396,Medium,0.373,0.21,0.925,-1.483,0.31,-2.003,0.108,0.394,-2.1,0.302,False,True
+S06,WrapStreet Vile Parle,P02,Chicken Tikka Wrap,104,10,-2.107,0.214,-2.527,-1.687,Medium,0.822,0.008,0.871,-2.304,0.344,-2.003,0.108,0.346,-2.1,0.007,True,True
+S06,WrapStreet Vile Parle,P03,Rajma Rice Bowl,104,9,-1.767,0.19,-2.14,-1.394,High,0.777,0.136,0.914,-1.503,0.264,-2.003,0.108,0.473,-1.89,0.123,True,True
+S06,WrapStreet Vile Parle,P04,Butter Chicken Bowl,104,10,-1.923,0.186,-2.287,-1.558,High,0.259,0.071,0.886,-1.84,0.253,-2.003,0.108,0.494,-1.89,0.033,True,True
+S06,WrapStreet Vile Parle,P05,Masala Fries,104,9,-2.144,0.23,-2.595,-1.693,Medium,0.654,0.089,0.894,-2.554,0.427,-2.003,0.108,0.255,-2.52,0.376,False,True
+S06,WrapStreet Vile Parle,P06,Cold Coffee,104,10,-2.284,0.189,-2.655,-1.913,High,0.222,-0.005,0.921,-2.591,0.262,-2.003,0.108,0.477,-2.415,0.131,True,True
+S07,WrapStreet Ghatkopar,P01,Paneer Tikka Wrap,104,10,-1.242,0.217,-1.666,-0.817,Medium,0.471,0.1,0.724,-1.071,0.349,-1.329,0.113,0.339,-1.3,0.058,True,True
+S07,WrapStreet Ghatkopar,P02,Chicken Tikka Wrap,104,8,-1.264,0.188,-1.634,-0.895,High,-0.385,0.09,0.79,-1.195,0.257,-1.329,0.113,0.486,-1.3,0.036,True,True
+S07,WrapStreet Ghatkopar,P03,Rajma Rice Bowl,104,9,-1.28,0.197,-1.666,-0.894,High,0.385,0.07,0.656,-1.219,0.28,-1.329,0.113,0.443,-1.17,0.11,True,True
+S07,WrapStreet Ghatkopar,P04,Butter Chicken Bowl,104,7,-1.18,0.247,-1.665,-0.696,Low,0.208,0.098,0.481,-0.426,0.563,-1.329,0.113,0.165,-1.17,0.01,True,True
+S07,WrapStreet Ghatkopar,P05,Masala Fries,104,8,-1.4,0.196,-1.784,-1.017,High,0.448,0.048,0.845,-1.488,0.277,-1.329,0.113,0.448,-1.56,0.16,True,True
+S07,WrapStreet Ghatkopar,P06,Cold Coffee,104,8,-1.334,0.203,-1.732,-0.936,High,0.188,0.117,0.827,-1.34,0.299,-1.329,0.113,0.411,-1.495,0.161,True,True
+S08,WrapStreet Thane,P01,Paneer Tikka Wrap,104,9,-1.778,0.196,-2.163,-1.393,High,0.536,0.047,0.758,-1.743,0.274,-1.806,0.123,0.455,-1.7,0.078,True,True
+S08,WrapStreet Thane,P02,Chicken Tikka Wrap,104,9,-1.803,0.224,-2.242,-1.364,Medium,0.036,0.049,0.802,-1.795,0.371,-1.806,0.123,0.312,-1.7,0.103,True,True
+S08,WrapStreet Thane,P03,Rajma Rice Bowl,104,8,-1.86,0.232,-2.315,-1.406,Medium,0.23,-0.004,0.714,-2.007,0.412,-1.806,0.123,0.269,-1.53,0.33,False,True
+S08,WrapStreet Thane,P04,Butter Chicken Bowl,104,11,-1.632,0.212,-2.047,-1.217,Medium,0.063,0.089,0.744,-1.342,0.322,-1.806,0.123,0.376,-1.53,0.102,True,True
+S08,WrapStreet Thane,P05,Masala Fries,104,8,-1.895,0.186,-2.26,-1.529,High,0.407,0.019,0.837,-1.982,0.248,-1.806,0.123,0.503,-2.04,0.145,True,True
+S08,WrapStreet Thane,P06,Cold Coffee,104,9,-1.973,0.236,-2.435,-1.511,Medium,-0.009,-0.071,0.801,-2.479,0.436,-1.806,0.123,0.248,-1.955,0.018,True,True

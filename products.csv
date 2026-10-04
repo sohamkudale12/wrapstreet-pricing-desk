@@ -1,0 +1,7 @@
+product_id,product_name,category,current_price,unit_cost,base_weekly_orders
+P01,Paneer Tikka Wrap,Wrap,199,70,320
+P02,Chicken Tikka Wrap,Wrap,229,85,350
+P03,Rajma Rice Bowl,Bowl,179,55,220
+P04,Butter Chicken Bowl,Bowl,259,95,260
+P05,Masala Fries,Side,99,28,400
+P06,Cold Coffee,Beverage,129,35,300

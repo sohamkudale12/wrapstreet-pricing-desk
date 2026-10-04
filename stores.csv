@@ -1,0 +1,9 @@
+store_id,store_name,area,store_type,income_tier,competition_intensity,footfall_index,delivery_share,competitor_price_ratio
+S01,WrapStreet BKC,Bandra Kurla Complex,Office,High,Medium,1.2,0.4,1.08
+S02,WrapStreet Lower Parel,Lower Parel,Office,High,High,1.3,0.45,1.0
+S03,WrapStreet Colaba,Colaba,Tourist/Premium,High,Medium,0.9,0.35,1.05
+S04,WrapStreet Powai,Powai,IT/Residential,Mid-High,Medium,1.1,0.55,0.98
+S05,WrapStreet Andheri West,Andheri West,Young Professionals,Mid,High,1.25,0.55,0.93
+S06,WrapStreet Vile Parle,Vile Parle,College,Low-Mid,High,1.15,0.45,0.78
+S07,WrapStreet Ghatkopar,Ghatkopar,Residential,Mid,Medium,0.95,0.5,0.95
+S08,WrapStreet Thane,Thane,Suburban/Value,Mid,Medium,0.85,0.5,0.9
