@@ -20,7 +20,7 @@ import numpy as np
 import pandas as pd
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, "data")
+OUT = HERE
 
 COMMISSION = 0.25          # aggregator commission on delivery orders (Step 2)
 BASELINE_WEEKS = 8         # last 8 weeks = current state
